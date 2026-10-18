@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "path": "/",
-      "title": "Facebook Login UI"
-    }
-  ]
-}
